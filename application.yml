@@ -1,1 +1,2 @@
 message: Hello from Config Server changed!
+message2: Hello from fork -> pull commit
